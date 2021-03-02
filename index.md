@@ -1,3 +1,3 @@
 # index test
 
-![Jake the dog](JaketheDog.png)
+![Jake the dog](https://mbyrne28.github.com/portfolio/JaketheDog.png)
