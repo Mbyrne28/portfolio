@@ -1,1 +1,3 @@
-index test
+# index test
+
+![Jake the dog](JaketheDog.png)
