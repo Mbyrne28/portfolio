@@ -3,7 +3,7 @@ Knowledge Management is the process of creating, sharing, using and managing the
 
 As a part of a larger Digital Transformation programme the energy company was consolidating parts of their business on the Salesforce platform. Moving knowledge managment practices from regional operations in to a centralised hub. For BP this is a very complicated task; many stakeholders, lots of opinions, and the subject itself is by nature is very technical.
 
-The project lasted for 12 weeks. I led the team of 5 (researchers, service designers, and user experience) and was responsible for reporting to the client, coordinating the design work on track, and working closely with our build colleagues.
+The project lasted for 12 weeks. I led the team of 5 (researchers, service designers, and user experience) and was responsible for reporting to the client, coordinating the design work, and working closely with our build colleagues.
 
 ## Task
 To design the first version of the kowledge managemnt platform for the energy company, validating designs with stakeholders, SMEs, and end users .
@@ -18,56 +18,49 @@ To design the first version of the kowledge managemnt platform for the energy co
 Stakeholder interview
 
 1. Understanding
-Planning activities
-Bootcamp - Setting the scene 
-Download from SME
-Initial desk research
+* Planning activities
+* Bootcamp - Setting the scene 
+* Download from SME
+* Initial desk research
 
 2. Focus
-Discussion guides
-Stakeholder interview (Adriana)
-User interviews x 2
-To-be process map
-Ecosystem map
-Early research synthesis
+* Discussion guides
+* Stakeholder interviews
+* User interviews
+* To-be process map
+* Ecosystem map
+* Early research synthesis
 
 3. Synthesising
-Document Deep Dive
-SalesForce Demo
-Synthesising research
-Prototyping workshop material
+* Document Deep Dive
+* SalesForce Demo
+* Synthesising research
+* Prototyping workshop material
 
 4. Workshop
-Co-creation workshop
-Synthesis
-Internal playback
+* Co-creation workshop
+* Synthesis
 
 5. Validating
-Wire-framing
-Lo-Fi prototypes
-User testing
-Fill gaps in understanding
-Process flows
-User journeys
+* Wire-framing
+* Lo-Fi prototypes
+* User testing
+* Process flows
+* User journeys
 
 6. Testing
-Iterating wire-frames
-Iterating prototypes
-User testing
-To-be knowledge lifecycle
-Sense check wires with Tech team
+* Iterating wire-frames
+* Iterating prototypes
+* User testing
 
-7. Testing round 2
-Iterating wire-frames
-Iterating prototype
-User stories
-Playback
+7. Design iteration
+* Iterating wire-frames
+* Iterating prototype
+* User stories
 
 8. Production design
-Design & QA team London
-Wipro build team off-shore
-Integration with Sales Force
-Successful delivery on time and on budget
+* Design & QA
+* Successful delivery on time and on budget
 
 ## Results
 xxx
